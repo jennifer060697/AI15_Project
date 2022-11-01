@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>
+      New HTML Page
+    </title>
+  </head>
+  <body>
+
+    <form action = "http://127.0.0.1:5000/run" method = "POST">
+        성별 선택 :
+        <input type="radio" name="SEX" value="2"> 여성
+        <input type="radio" name="SEX" value="1"> 남성 <br>
+
+        나이 입력 :
+        <input type="text" name="AGE"> <br>
+
+        좌측 시력 입력 (0~2) :
+        <input type="text" name="VA_LT"> <br>
+
+        우측 시력 입력 (0~2) :
+        <input type="text" name="VA_RT"> <br>
+
+        고혈압 여부 :
+        <input type="radio" name="HTN" value="1"> 예
+        <input type="radio" name="HTN" value="0"> 아니오 <br>
+
+        당뇨병 여부 :
+        <input type="radio" name="DM" value="1"> 예
+        <input type="radio" name="DM" value="0"> 아니오 <br>
+
+        당뇨망막병증 여부 :
+        <input type="radio" name="DR" value="1"> 예
+        <input type="radio" name="DR" value="0"> 아니오 <br>
+
+        <input type="submit" value="전송">
+    </form>
+  </body>
+</html>
