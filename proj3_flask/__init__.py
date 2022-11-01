@@ -4,7 +4,7 @@ import pandas as pd
 
 app = Flask(__name__)
 
-@app.route('/run', methods = ['POST','GET'])
+@app.route('/', methods = ['POST','GET'])
 def create_app() :
     model = None
     with open('xgb_bas.pkl','rb') as pickle_file:
