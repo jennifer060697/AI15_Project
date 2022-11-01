@@ -1,1 +1,1 @@
-web: gunicorn --workers=3 'proj3_flask:create_app()'
+web: gunicorn --workers=3 'proj3_flask:app'
