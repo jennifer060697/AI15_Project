@@ -4,7 +4,7 @@
 문서 : 노션 https://5coding.notion.site/Project-1-Final-Arrange-57d7ebff085041da8fa44a5263e97fa7
 
 ### 프로젝트 2
-문서 : ppt
+문서 : ppt  
 데이터 : 국가건강검진시력데이터.csv
 
 ### 프로젝트 3
