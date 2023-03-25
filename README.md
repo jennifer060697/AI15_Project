@@ -20,8 +20,8 @@
 데이터분리, 정규화, 미니배치, 순전파, 역전파, 성능검사 등등 구현  
 코드 : CP1_DS.ipynb
 
-### 프로젝트 CP2  
-4인 팀프로젝트  
+### 프로젝트 CP2 - PLACE AI  
+Ko-Sentence-BERT 기반 문장형 식당 검색 사이트 - 4인 팀프로젝트  
 역할 : DE + 백엔드   
 프로젝트 요약 : 노션 링크 예정  
 구현 요약 : https://5coding.notion.site/PLACE-AI-BERT-DB-3566ef3204e648ed9cc456ab01d44c70
